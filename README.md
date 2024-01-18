@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Robert McLintock
+- 👀 I’m interested in Video Games, Dungeons and Dragons, Cooking, Camping, Hiking, and Traveling
+- 🌱 I’m currently learning Computer Engineering, Computer Programming in C/C++, Python, and Verilog HDL
+- 💞️ I’m looking to collaborate on HDL, Python, and C/C++ projects as well as anything that has to do with the hobbies listed above
+- 📫 You can reach me by sending a message to myself here on GitHub
